@@ -1,0 +1,7 @@
+{
+  "name": "Controle de Acesso UAG",
+  "description": "Sistema de portaria para controle de fluxo de frotas e colaboradores com dashboard analítico e exportação de dados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
